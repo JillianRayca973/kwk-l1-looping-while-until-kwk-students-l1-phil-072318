@@ -3,7 +3,6 @@ def using_while
  loop do 
    until levitation_force==10
    levitation_force += 1
-   break
   end 
 end
 using_while
